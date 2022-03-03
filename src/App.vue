@@ -20,7 +20,6 @@
         </text>  
       </svg> 
     </div>
-
   </div>
 </template>
 
